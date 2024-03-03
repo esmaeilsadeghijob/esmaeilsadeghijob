@@ -10,6 +10,15 @@
 <p>- Designing and implementing RESTful Web Services.</p>
 
 
+<h2>Connect</h2>
+<p>Where you can find and connect with Esmail on social media</p>
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="17%">
+    </td>
+  </tr>
+</table>  
+
 
 
 
