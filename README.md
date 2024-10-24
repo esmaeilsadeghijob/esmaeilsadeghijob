@@ -17,6 +17,12 @@
             <h4>LinkedIn</h4>
         </a>
     </td>
+    <td align="center" valign="top" width="17%">
+       <a rel="me" href="https://www.instagram.com/dr.esmail.sadeghi.h" target="_blank">
+            <img src="https://pngtree.com/freepng/instagram-social-platform-icon_8704818.html" height="100"/>
+            <h4>LinkedIn</h4>
+        </a>
+    </td>
   </tr>
 </table>  
 
