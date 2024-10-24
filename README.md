@@ -1,4 +1,4 @@
-<h3 align="center">Java, Spring Developer</h3>
+<h3 align="center">Software Developer</h3>
 <p>As a Software Developer and Architect, I specialize in object-oriented analysis and oversee every stage of the software development life cycle. From initial analysis and design to actual implementation and ongoing maintenance, I ensure that software systems are robust and efficient. My diverse experience includes working with various tools and technologies in N-tier and Microservices architectures.</p>
 
 <h2>Connect</h2>
