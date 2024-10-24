@@ -8,7 +8,7 @@
      <td align="center" valign="top" width="17%">
         <a rel="me" href="https://twitter.com/EsmailSadeghih" target="_blank">
             <img src="https://www.habuma.com/img/twitter.png" height="100"/>
-            <h4>Twitter<br/>(@habuma)</h4>
+            <h4>Twitter</h4>
         </a>
     </td>
     <td align="center" valign="top" width="17%">
