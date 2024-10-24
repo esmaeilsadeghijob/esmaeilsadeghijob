@@ -19,8 +19,8 @@
     </td>
     <td align="center" valign="top" width="17%">
        <a rel="me" href="https://www.instagram.com/dr.esmail.sadeghi.h" target="_blank">
-            <img src="https://pngtree.com/freepng/instagram-social-platform-icon_8704818.html" height="100"/>
-            <h4>LinkedIn</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thu…_icon.png/600px-Instagram_icon.png?20200512141346" height="100"/>
+            <h4>Instagram</h4>
         </a>
     </td>
   </tr>
