@@ -19,7 +19,7 @@
     </td>
     <td align="center" valign="top" width="17%">
        <a rel="me" href="https://www.instagram.com/dr.esmail.sadeghi.h" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thu…_icon.png/600px-Instagram_icon.png?20200512141346" height="100"/>
+            <img src="https://commons.wikimedia.org/wiki/File:Instagram_icon.png" height="100"/>
             <h4>Instagram</h4>
         </a>
     </td>
