@@ -7,25 +7,25 @@
   <tr>
     <td align="center" valign="top" width="17%">
        <a rel="me" href="https://www.linkedin.com/in/dr-esmaeil-sadeghi" target="_blank">
-            <img src="https://www.habuma.com/img/linkedin.png" height="80"/>
+            <img src="https://www.habuma.com/img/linkedin.png" height="100"/>
             <h4>LinkedIn <b>@dr-esmaeil-sadeghi</b></h4>
         </a>
     </td>
     <td align="center" valign="top" width="17%">
        <a rel="me" href="https://www.instagram.com/dr.esmail.sadeghi.h" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="80"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="100"/>
             <h4>Instagram <b>dr.esmail.sadeghi.h</b></h4>
         </a>
     </td>
      <td align="center" valign="top" width="17%">
         <a rel="me" href="https://twitter.com/EsmailSadeghih" target="_blank">
-            <img src="https://www.habuma.com/img/twitter.png" height="80"/>
+            <img src="https://www.habuma.com/img/twitter.png" height="100"/>
             <h4>Twitter <b>@EsmailSadeghih</b></h4>
         </a>
     </td>
     <td align="center" valign="top" width="17%">
        <a rel="me" href="https://www.youtube.com/@esmailsadeghiii" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="80"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="100"/>
             <h4>Youtube <b>@esmailsadeghiii</b></h4>
         </a>
     </td>
