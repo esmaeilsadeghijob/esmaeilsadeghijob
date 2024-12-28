@@ -1,5 +1,5 @@
 <h3 align="center">Software Developer</h3>
-<p>As a Software Developer and Architect, I specialize in object-oriented analysis and oversee every stage of the software development life cycle. From initial analysis and design to actual implementation and ongoing maintenance, I ensure that software systems are robust and efficient. My diverse experience includes working with various tools and technologies in N-tier and Microservices architectures.</p>
+<p>As a proficient Software Developer and Architect, I excel in object-oriented analysis and manage all phases of the software development lifecycle, from initial planning and design to implementation and continuous maintenance, ensuring robust and efficient software systems. With extensive experience in N-tier and Microservices architectures, I leverage a wide array of tools and technologies to deliver high-performing solutions. My dedication to excellence drives me to create software that not only meets but exceeds expectations, fostering innovative development practices and building systems that are both reliable and high-quality.</p>
 
 <h2>Connect</h2>
 <p>Where you can find and connect with Esmail on social media</p>
