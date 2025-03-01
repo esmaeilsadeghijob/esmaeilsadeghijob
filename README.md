@@ -4,7 +4,7 @@
 </p>
 
 <h2>Connect</h2>
-<p>Where you can find and connect with Esmail on social media</p>
+<p>Where you can find and connect with esmaeil on social media</p>
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="17%">
